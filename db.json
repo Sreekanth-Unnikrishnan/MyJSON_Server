@@ -1,1 +1,181 @@
-[{"name":"Captain America","realname":"Steve Rogers","team":"Avengers","firstappearance":"1941","createdby":"Joe Simon","publisher":"Marvel Comics","imageurl":"https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg","bio":"\r\n\t\tillustration and a comic book writer and artist.\r\n\t\t"},{"name":"Iron Man","realname":"Tony Stark","team":"Avengers","firstappearance":"1963","createdby":"Stan Lee","publisher":"Marvel Comics","imageurl":"https:\/\/www.simplifiedcoding.net\/demos\/marvel\/ironman.jpg","bio":"\r\n\t\tAnthony Edward Stark inherits his father's company.\r\n\t\t"},{"name":"Wolvarine","realname":"James Howlett","team":"X-Men","firstappearance":"1974","createdby":"Len Wein","publisher":"Marvel Comics","imageurl":"https:\/\/www.simplifiedcoding.net\/demos\/marvel\/logan.jpg","bio":"\r\n\t\tWolverine was born James Howlett in northern Alberta. Logan is unaware of his son for many years.\r\n\t\t"}]
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Sophia",
+            "profile_img": "http://www.etkinproje.com/wp-content/uploads/2014/09/Faces-400x400px-1_1_18.jpg",
+            "albums": [
+                {
+                    "albm_name": "Album 1",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "Holy Cow",
+                            "url": "http://ideviate.org/wp-content/uploads/2012/03/Holy-Cow-150x150.jpg"
+                        },
+                        {
+                            "photo_name" : "Full Moon",
+                            "url": "https://avatarfiles.alphacoders.com/874/thumb-87463.jpg"
+                        },
+                        {
+                            "photo_name" : "Delicate Nature",
+                            "url": "http://www.w2gallery.com/wp-content/uploads/2015/03/Delicate-Nature-150x150.jpg"
+                        }
+                    ]
+                },
+                { "albm_name": "Album 2",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "Holy Cow - 2",
+                            "url": "http://ideviate.org/wp-content/uploads/2012/03/Holy-Cow-150x150.jpg"
+                        },
+                        {
+                            "photo_name" : "Full Moon - 2",
+                            "url": "https://avatarfiles.alphacoders.com/874/thumb-87463.jpg"
+                        },
+                        {
+                            "photo_name" : "Delicate Nature - 2",
+                            "url": "http://www.w2gallery.com/wp-content/uploads/2015/03/Delicate-Nature-150x150.jpg"
+                        }
+                    ]
+                },
+                { "albm_name": "Album 3",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "Holy Cow - 3",
+                            "url": "http://ideviate.org/wp-content/uploads/2012/03/Holy-Cow-150x150.jpg"
+                        },
+                        {
+                            "photo_name" : "Full Moon - 3",
+                            "url": "https://avatarfiles.alphacoders.com/874/thumb-87463.jpg"
+                        },
+                        {
+                            "photo_name" : "Delicate Nature - 3",
+                            "url": "http://www.w2gallery.com/wp-content/uploads/2015/03/Delicate-Nature-150x150.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Thomas Aigner",
+            "profile_img": "https://icar-us.eu/files/2015/03/Thomas-Aigner_Credit-Andrea-Reischer-400x400.jpg",
+            "albums": [
+                {
+                    "albm_name": "Album 1",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        }
+                    ]
+                },
+                { "albm_name": "Album 2",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        }
+                    ]
+                },
+                { "albm_name": "Album 3",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Ritika Suri",
+            "profile_img": "http://im.rediff.com/money/2017/jul/20ritika1.jpg",
+            "albums": [
+                {
+                    "albm_name": "Album 1",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        }
+                    ]
+                },
+                { "albm_name": "Album 2",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        }
+                    ]
+                },
+                { "albm_name": "Album 3",
+                    "cover": "cover_photo_url",
+                    "photos": [
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        },
+                        {
+                            "photo_name" : "photo-1",
+                            "url": "photo_url"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
