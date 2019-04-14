@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "id": 1,
+            "id": "1",
             "name": "Sophia",
             "profile_img": "http://www.etkinproje.com/wp-content/uploads/2014/09/Faces-400x400px-1_1_18.jpg",
             "albums": [
@@ -60,7 +60,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Thomas Aigner",
             "profile_img": "https://icar-us.eu/files/2015/03/Thomas-Aigner_Credit-Andrea-Reischer-400x400.jpg",
             "albums": [
@@ -119,7 +119,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": "3",
             "name": "Ritika Suri",
             "profile_img": "http://im.rediff.com/money/2017/jul/20ritika1.jpg",
             "albums": [
