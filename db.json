@@ -69,16 +69,16 @@
                     "cover": "http://smussr.com/api/images/covers/cover8.jpg",
                     "photos": [
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Iceland_Roadtrip_itierary_church_mountain",
+                            "url": "http://smussr.com/api/images/Iceland_Roadtrip_itierary_church_mountain.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "keto_coconut_flour_mug_bread",
+                            "url": "http://smussr.com/api/images/keto_coconut_flour_mug_bread.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "lavender",
+                            "url": "http://smussr.com/api/images/lavender.jpg"
                         }
                     ]
                 },
@@ -86,16 +86,16 @@
                     "cover": "http://smussr.com/api/images/covers/cover5.jpg",
                     "photos": [
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Machu_pichu",
+                            "url": "http://smussr.com/api/images/Machu_pichu.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "master samurai",
+                            "url": "http://smussr.com/api/images/master_samurai.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Navi mumbai",
+                            "url": "http://smussr.com/api/images/navi_mumbai.png"
                         }
                     ]
                 },
@@ -103,16 +103,16 @@
                     "cover": "http://smussr.com/api/images/covers/cover12.jpg",
                     "photos": [
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Navi mumbai municipal corporation",
+                            "url": "http://smussr.com/api/images/Navi_mumbai_municipal_corporation.png"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "November morning",
+                            "url": "http://smussr.com/api/images/November-morning.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "office_space",
+                            "url": "http://smussr.com/api/images/office_space.jpg"
                         }
                     ]
                 }
@@ -124,7 +124,7 @@
             "profile_img": "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/logan.jpg",
             "albums": [
                 {
-                    "albm_name": "Album 1",
+                    "albm_name": "Collection 1",
                     "cover": "http://smussr.com/api/images/covers/cover13.jpg",
                     "photos": [
                         {
@@ -141,7 +141,7 @@
                         }
                     ]
                 },
-                { "albm_name": "Album 2",
+                { "albm_name": "Collection 2",
                     "cover": "http://smussr.com/api/images/covers/cover5.jpg",
                     "photos": [
                         {
@@ -158,7 +158,7 @@
                         }
                     ]
                 },
-                { "albm_name": "Album 3",
+                { "albm_name": "Collection 3",
                     "cover": "http://smussr.com/api/images/covers/cover12.jpg",
                     "photos": [
                         {
