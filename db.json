@@ -6,8 +6,8 @@
             "profile_img": "https:\/\/www.simplifiedcoding.net\/demos\/marvel\/captainamerica.jpg",
             "albums": [
                 {
-                    "albm_name": "Album 1",
-                    "cover": "cover_photo_url",
+                    "albm_name": "My Album 1",
+                    "cover": "http://smussr.com/api/images/covers/cover1.jpg",
                     "photos": [
                         {
                             "photo_name" : "Building",
@@ -19,41 +19,41 @@
                         },
                         {
                             "photo_name" : "Airforce",
-                            "url": "http://www.davidhalterman.com/denverjazzband/extras/sample_image_sq.jpg"
+                            "url": "http://smussr.com/api/images/airforce.jpg"
                         }
                     ]
                 },
-                { "albm_name": "Album 2",
-                    "cover": "cover_photo_url",
+                { "albm_name": "My Album 2",
+                    "cover": "http://smussr.com/api/images/covers/cover13.jpg",
                     "photos": [
                         {
-                            "photo_name" : "Holy Cow - 2",
-                            "url": "http://ideviate.org/wp-content/uploads/2012/03/Holy-Cow-150x150.jpg"
+                            "photo_name" : "Dry Land",
+                            "url": "http://smussr.com/api/images/bust9-150x150.jpg"
                         },
                         {
-                            "photo_name" : "Full Moon - 2",
-                            "url": "https://avatarfiles.alphacoders.com/874/thumb-87463.jpg"
+                            "photo_name" : "Airforce _ 2",
+                            "url": "http://smussr.com/api/images/airforce.jpg"
                         },
                         {
-                            "photo_name" : "Delicate Nature - 2",
-                            "url": "http://www.w2gallery.com/wp-content/uploads/2015/03/Delicate-Nature-150x150.jpg"
+                            "photo_name" : "California-Camp-Wildfire",
+                            "url": "http://smussr.com/api/images/California-Camp-Wildfire.jpg"
                         }
                     ]
                 },
-                { "albm_name": "Album 3",
-                    "cover": "cover_photo_url",
+                { "albm_name": "My Album 3",
+                    "cover": "http://smussr.com/api/images/covers/cover5.jpg",
                     "photos": [
                         {
-                            "photo_name" : "Holy Cow - 3",
-                            "url": "http://ideviate.org/wp-content/uploads/2012/03/Holy-Cow-150x150.jpg"
+                            "photo_name" : "Cat Love",
+                            "url": "http://smussr.com/api/images/cat.jpg"
                         },
                         {
-                            "photo_name" : "Full Moon - 3",
-                            "url": "https://avatarfiles.alphacoders.com/874/thumb-87463.jpg"
+                            "photo_name" : "city-hall-profilex",
+                            "url": "http://smussr.com/api/images/city-hall-profilex.jpg"
                         },
                         {
                             "photo_name" : "Delicate Nature - 3",
-                            "url": "http://www.w2gallery.com/wp-content/uploads/2015/03/Delicate-Nature-150x150.jpg"
+                            "url": "http://smussr.com/api/images/Flower.jpg"
                         }
                     ]
                 }
@@ -66,7 +66,7 @@
             "albums": [
                 {
                     "albm_name": "Album 1",
-                    "cover": "cover_photo_url",
+                    "cover": "http://smussr.com/api/images/covers/cover8.jpg",
                     "photos": [
                         {
                             "photo_name" : "photo-1",
@@ -83,7 +83,7 @@
                     ]
                 },
                 { "albm_name": "Album 2",
-                    "cover": "cover_photo_url",
+                    "cover": "http://smussr.com/api/images/covers/cover5.jpg",
                     "photos": [
                         {
                             "photo_name" : "photo-1",
@@ -100,7 +100,7 @@
                     ]
                 },
                 { "albm_name": "Album 3",
-                    "cover": "cover_photo_url",
+                    "cover": "http://smussr.com/api/images/covers/cover12.jpg",
                     "photos": [
                         {
                             "photo_name" : "photo-1",
@@ -125,7 +125,7 @@
             "albums": [
                 {
                     "albm_name": "Album 1",
-                    "cover": "cover_photo_url",
+                    "cover": "http://smussr.com/api/images/covers/cover13.jpg",
                     "photos": [
                         {
                             "photo_name" : "photo-1",
@@ -142,7 +142,7 @@
                     ]
                 },
                 { "albm_name": "Album 2",
-                    "cover": "cover_photo_url",
+                    "cover": "http://smussr.com/api/images/covers/cover5.jpg",
                     "photos": [
                         {
                             "photo_name" : "photo-1",
@@ -159,7 +159,7 @@
                     ]
                 },
                 { "albm_name": "Album 3",
-                    "cover": "cover_photo_url",
+                    "cover": "http://smussr.com/api/images/covers/cover12.jpg",
                     "photos": [
                         {
                             "photo_name" : "photo-1",
