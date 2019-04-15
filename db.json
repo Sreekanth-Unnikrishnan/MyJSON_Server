@@ -10,8 +10,8 @@
                     "cover": "cover_photo_url",
                     "photos": [
                         {
-                            "photo_name" : "Holy Cow",
-                            "url": "http://ideviate.org/wp-content/uploads/2012/03/Holy-Cow-150x150.jpg"
+                            "photo_name" : "Album Cover",
+                            "url": "https://coverfiles.alphacoders.com/344/34467.jpg"
                         },
                         {
                             "photo_name" : "Full Moon",
