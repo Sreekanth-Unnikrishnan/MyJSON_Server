@@ -10,16 +10,16 @@
                     "cover": "cover_photo_url",
                     "photos": [
                         {
-                            "photo_name" : "Album Cover",
-                            "url": "https://images.unsplash.com/photo-1449675820498-79947c07ede6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+                            "photo_name" : "Building",
+                            "url": "https://mb.cision.com/Public/14982/2630587/bbeb284a149aebf3_400x400ar.jpg"
                         },
                         {
                             "photo_name" : "Full Moon",
                             "url": "https://avatarfiles.alphacoders.com/874/thumb-87463.jpg"
                         },
                         {
-                            "photo_name" : "Delicate Nature",
-                            "url": "http://www.w2gallery.com/wp-content/uploads/2015/03/Delicate-Nature-150x150.jpg"
+                            "photo_name" : "Slow GameOpen Source DIY Kit",
+                            "url": "http://willodom.com/portfolio/wp-content/uploads/2014/12/5DSL7374-550x455.jpg"
                         }
                     ]
                 },
