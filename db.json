@@ -128,16 +128,16 @@
                     "cover": "http://smussr.com/api/images/covers/cover13.jpg",
                     "photos": [
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Navi Mumbai",
+                            "url": "http://smussr.com/api/images/navi_mumbai.png"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "lavender",
+                            "url": "http://smussr.com/api/images/lavender.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "city hall profilex",
+                            "url": "http://smussr.com/api/images/city-hall-profilex.jpg"
                         }
                     ]
                 },
@@ -145,16 +145,16 @@
                     "cover": "http://smussr.com/api/images/covers/cover5.jpg",
                     "photos": [
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Volvo_Driverless",
+                            "url": "http://smussr.com/api/images/Volvo_Driverless-Car.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "vicki golden auckland backflip",
+                            "url": "http://smussr.com/api/images/vicki-golden-auckland-backflip.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Tesla Model-S Model-X blue sky",
+                            "url": "http://smussr.com/api/images/Tesla-Model-S-Model-X-blue-sky.jpg"
                         }
                     ]
                 },
@@ -162,16 +162,16 @@
                     "cover": "http://smussr.com/api/images/covers/cover12.jpg",
                     "photos": [
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "sun_flower",
+                            "url": "http://smussr.com/api/images/sun_flower.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "Steins_Seafood_Rest",
+                            "url": "http://smussr.com/api/images/Steins_Seafood_Rest.jpg"
                         },
                         {
-                            "photo_name" : "photo-1",
-                            "url": "photo_url"
+                            "photo_name" : "sikorsky-mh-60r-seahawk",
+                            "url": "http://smussr.com/api/images/sikorsky-mh-60r-seahawk.jpg"
                         }
                     ]
                 }
